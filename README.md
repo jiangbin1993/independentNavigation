@@ -4,7 +4,7 @@
 	
 ##自定义导航栏效果
 
-![](/Users/bin/Desktop/nav.gif
-)
+![nav.gif](http://upload-images.jianshu.io/upload_images/2541004-9d5c0b4f8b9f247f.gif?imageMogr2/auto-orient/strip)
+
 
 
