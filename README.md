@@ -4,7 +4,7 @@
 	
 ##自定义导航栏效果
 
-![自定义导航栏](/Users/bin/Desktop/nav.gif
+![](/Users/bin/Desktop/nav.gif
 )
 
 
